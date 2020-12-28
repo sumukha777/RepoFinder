@@ -1,2 +1,2 @@
 # RepoFinder
-JavaScript application to find GitHub users and their recent repositories
+JavaScript application to find GitHub users and their recent repositories.
